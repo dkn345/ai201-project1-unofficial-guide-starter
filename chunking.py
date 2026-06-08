@@ -42,8 +42,8 @@ def chunk_document(text, source):
     Chunk size: 250
     Overlap: 25
     """
-    chunk_size = 250
-    overlap = 25
+    chunk_size = 350
+    overlap = 50
     min_length = 50
 
     chunks = []
@@ -86,7 +86,7 @@ if __name__ == "__main__":
         )
 
         all_chunks.extend(chunks)
-
+    """
     print(f"\nTotal chunks: {len(all_chunks)}")
 
     print("\Random 5 chunks:\n")
@@ -98,4 +98,4 @@ if __name__ == "__main__":
         print("CHUNK ID:", chunk["chunk_id"])
         print(chunk["text"])
         print()
-
+    """
