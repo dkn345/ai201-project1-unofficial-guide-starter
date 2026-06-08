@@ -1,0 +1,92 @@
+Source: Rate My Professor
+URL: https://www.ratemyprofessors.com/professor/1554657
+Professor: Shyam Karrah
+Overall Quality: 3.9 / 5
+Overall Quality Based on 84 ratings
+Would Take Again: 68%
+Level of Difficulty: 2.9
+
+Rating Distribution:
+Awesome 5: 50
+Great 4: 8
+Good 3: 4
+OK 2: 9
+Awful 1: 13
+
+84 Student Ratings
+All courses
+
+Quality: 5.0
+Difficulty: 3.0
+Course: CS1436
+Date: Apr 14th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Review:
+He's very good if you go to class and just listen to him. The best CS professor, in my opinion, for CS 1436 and CS 1337.
+Tags:
+Amazing lectures
+Clear grading criteria
+Beware of pop quizzes
+Helpful
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CS1436
+Date: Mar 14th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: Yes
+Review:
+I couldn't really understand what was going on like 98% of the time. This class is just really fast paced, if you have done C++ before, I'm sure this would be light work for you. I didn't have background in coding, went horribly for me.
+Tags:
+Beware of pop quizzes
+Test heavy
+Helpful
+
+Quality: 2.0
+Difficulty: 2.0
+Course: CS1337
+Date: Mar 12th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: A
+Textbook: Yes
+Review:
+This guy does the high-school teacher thing where he "waits for the class to get silent" it can get pretty annoying if your class is chatty. But it's also up to professors to silence the room instead of being petty and waiting. Although this is a freshman level class, he will teach like he's a HS teacher.
+Tags:
+Helpful
+
+Quality: 2.0
+Difficulty: 4.0
+Course: CS1436
+Date: Oct 22nd, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review:
+He isn't a terrible professor. If you pay attention you should be very capable of getting an A. The issue is that this class is not presented in any way that makes paying attention easy. I am an ADHD student, so of course this is already a bit more difficult, but the class is just him reading off of slides students already have. Way too boring.
+Tags:
+Get ready to read
+Beware of pop quizzes
+Lecture heavy
+Helpful
+
+Quality: 1.0
+Difficulty: 4.0
+Course: CS1436
+Date: Oct 15th, 2025
+For Credit: Yes
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review:
+Absolutely horrible at teaching. The lab problems' difficulty are nowhere near what he teaches in class.
+Tags:
+Beware of pop quizzes
+Helpful 

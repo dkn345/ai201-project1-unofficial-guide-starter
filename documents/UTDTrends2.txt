@@ -1,0 +1,40 @@
+Source: UTD Trends
+URL: https://trends.utdnebula.com/dashboard?searchTerms=CS+4391&availability=26F
+CS 4391 (Overall)
+
+A-
+
+CS 4391 Yapeng Tian
+
+B
+
+Not teaching in Fall 2026
+
+CS 4391 Ranran Feng
+
+A
+
+CS 4391 Crystal Maung
+
+B+
+
+CS 4391 Yu Xiang
+
+B-
+
+Foundations of Computer Vision
+
+CS 4391
+Erik Jonsson School of Engineering and Computer Science
+
+Techniques for manipulating and extracting information from digital images and video. Topics include color representations, analysis and processing based on image histograms, geometric transformations, convolutions, image blurring and sharpening, extraction of edges, matching, image and video motion. 3 credit hours.
+
+Prerequisite: (CE 3345 or CS 3345 or SE 3345 or equivalent) with a grade of C or better.
+
+Offering Frequency: Each year
+
+Grades: 689
+
+Median GPA: A-
+
+Mean GPA: 3.218

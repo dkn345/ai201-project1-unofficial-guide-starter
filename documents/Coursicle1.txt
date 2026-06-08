@@ -1,0 +1,32 @@
+Source: Coursicle
+URL: https://www.coursicle.com/utdallas/professors/Simeon+Ntafos/
+Coursicle Rating: 20
+Professor: Simeon Ntafos
+Reviews:
+
+Junior, CS:
+"He is the worst professor ever, you should never take his class."
+
+CS 2305
+Senior, CS:
+"GPA killer, he does not care about grades, tests are ridiculous and require leaps in logic, hard to understand, not willing to help you out outside of class."
+
+Departments:
+CS, CE, ECSC
+
+Recent Semesters Teaching:
+Fall 2026
+Spring 2026
+Fall 2025
+Spring 2024
+Fall 2023
+
+Typical Class Size:
+20-44
+
+Courses:
+CS 2305 - Discrete Mathematics for Computing I
+CS 4384 - Automata Theory
+CE 2305 - Discrete Mathematics for Computing I
+ECSC 4300 - Student Apprenticeship and Mentoring
+ECS 1100 - Introduction to Engineering and Computer Science

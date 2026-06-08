@@ -1,0 +1,30 @@
+Source: Coursicle
+URL: https://www.coursicle.com/utdallas/professors/Gopal+Gupta/
+Coursicle Rating: 61
+Professor: Gopal Gupta
+Reviews:
+
+CS 6374
+Senior, CS:
+"He gave us a project in finals week. While preparing for final exams we had to create a chatbot. The professor gives lots of reading and homework. It took more time than some core courses. It was the worst elective I took."
+
+CS 6371
+Senior, CS:
+"An easy A course. The homework was difficult and time-consuming, but overall the class was manageable. The project largely determines the grade."
+
+Departments:
+CS, SE
+
+Recent Semesters Teaching:
+Fall 2026
+Spring 2026
+Fall 2025
+Spring 2024
+Fall 2023
+
+Courses:
+CS 4V98 - Undergraduate Research in Computer Science
+CS 4301 - Special Topics in Computer Science - Advanced Programming Languages
+CS 4384 - Automata Theory
+CS 6374 - Computational Logic
+CS 7301 - Recent Advances in Computing - Trustworthiness of LLMs

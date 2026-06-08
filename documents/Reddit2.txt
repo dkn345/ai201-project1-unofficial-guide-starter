@@ -1,0 +1,48 @@
+Source: Reddit
+URL: https://www.reddit.com/r/utdallas/comments/1sfeu7k/advice_on_cs_3341_cs_2336_and_cs_2340_professors/
+Advice on CS 3341, CS 2336, and CS 2340 professors — who to take?
+
+Hey everyone, I'm registering and need some help.
+
+CS 3341 — Probability & Stats
+
+I'm torn between Huizhen Guo and Noirrit Chandra. I know Chandra has a low RMP score (1.9) but his UTD grade data actually shows a heavily A-skewed distribution so it seems like he curves hard. Guo's RMP is also rough but her grades look bad too. I also looked at Octavius Smiley since his RMP is the best of the bunch, but his UTD grade data shows a C+ average. Is Chandra's curve as real as the data suggests? Is Guo actually manageable if you just grind the practice material?
+
+CS 2336 — Computer Science II (JAVA)
+
+I was leaning toward Gordon Arnold or Veerasamy, but I've heard Gordon doesn't teach much and kind of leaves students on their own. I don't know enough about the rest of the roster (Chappidi, Feng, Satpute, Lin, Borazjany). Has anyone taken any of these recently? Who actually explains things well?
+
+CS 2340 — Computer Architecture
+
+I've heard this course is brutal in general, and I saw some UTD grade data showing nearly a 38% fail rate in certain sections. I'm currently deciding between Alice Wang and Nhut Nguyen. Some of my friends say Alice, others say Nhut. I also looked at Gity Karami because people said she was easy, but her recent UTD grade data doesn't completely show that. Who would you pick and why?
+
+CS 3341:
+CHANDRA FTW. His score is low but he's easy. He gives huge curves and tests/homework questions come straight from the book.
+
+CS 2336:
+Probably Gordon.
+
+CS 2340:
+Alice Wang. Never take Nhut.
+
+For Computer Architecture, Dr. Wang teaches very well and as long as you're locked in during lecture you'll be fine.
+
+For Stats, I cannot recommend Octavius Smiley enough. Easily the best stats professor at UTD and one of my all-time favorite CS professors.
+
+Because Smiley more or less tells you that if you make a genuine effort, you'll get at least a C in his class.
+
+His class is easy if you do all the homework problems before the exams. You can get 80–100 on every exam without extra credit.
+
+Take Guo over Smiley. Many of her reviews come from students who missed class and then were surprised by exam material. She is kind, listens to the class, removed sections from exams when students requested it, extended homework due dates, provides practice quizzes and exams, and allows a cheat sheet.
+
+Everyone only has bad things to say about Nhut, but I liked him. He curved grades and I ended with an A+ by paying attention. Guo's lectures can be difficult to follow, but she's nice.
+
+Do not take anyone for Stats whose name is not Octavius Smiley. He is one of the best professors at UTD. His class is difficult and pushes students to learn the material. If you put in effort, you'll get at least a C.
+
+Also, don't take Richard Min or Simeon Ntafos.
+
+Avoid Nhut Nguyen.
+
+Take Alice Wang for CS 2340. She is helpful and makes a difficult class more manageable.
+
+For Comp Arch, definitely take Alice Wang. She is the best option among the available professors.

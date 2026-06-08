@@ -1,0 +1,30 @@
+Source: UTD Trends
+URL: https://trends.utdnebula.com/dashboard?searchTerms=CS+3354&availability=26F
+CS 3354 (Overall)
+
+A-
+
+CS 3354 Soneya Binta Hossain
+
+B+
+
+CS 3354 Barbara Maweu
+
+A-
+
+CS 3354 Sadi Seker
+
+CS 3354 (Same as CE 3354 and SE 3354)
+Erik Jonsson School of Engineering and Computer Science
+
+Foundations of software life cycle models. Software requirements engineering, formal specification, and validation. Techniques for software design and testing. Cost estimation models. Issues in software quality assurance and software maintenance. 3 credit hours.
+
+Prerequisites: (CE 2305 or CS 2305) with a grade of C or better and (CE 2336 or CS 2336 or CS 2337 or CS 3333) with a grade of C or better and ECS 2390 with a grade of C or better.
+
+Offering Frequency: Each semester
+
+Grades: 6,419
+
+Median GPA: A-
+
+Mean GPA: 3.408

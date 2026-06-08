@@ -1,0 +1,97 @@
+Source: Rate My Professor
+URL: https://www.ratemyprofessors.com/professor/1833058
+Professor: Jason Smith
+Overall Quality: 3.3 / 5
+Overall Quality Based on 302 ratings
+Would Take Again: 56%
+Level of Difficulty: 4.3
+
+Rating Distribution:
+Awesome 5: 113
+Great 4: 57
+Good 3: 36
+OK 2: 21
+Awful 1: 76
+
+302 Student Ratings
+All courses
+
+Quality: 4.0
+Difficulty: 1.0
+Course: CS2337
+Date: Jun 2nd, 2026
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Review:
+Great class and was very easy to follow. There is a lot of work and projects, but they are very easy. He knows what he is talking about and answers questions. However, for the final, he gave some of us the wrong version of the exam and had to retake it. He did correct the mistake very quickly and gave us many options to retake the exam.
+Tags:
+EXTRA CREDIT
+Clear grading criteria
+Accessible outside class
+Helpful
+
+Quality: 2.0
+Difficulty: 4.0
+Course: CS3341
+Date: Apr 27th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Drop/Withdrawal
+Textbook: Yes
+Online Class: Yes
+Review:
+Not a good choice for CS 3341 because he was very disorganized. He had to substitute in for another professor who couldn't teach the course. The tests were poorly made and it was evident that basic proof-reading didn't happen. However, I appreciate his effort considering the limited resources and time that he had.
+Tags:
+Test heavy
+Helpful
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CS3341
+Date: Apr 26th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Review:
+Professor doesn't give lecture notes, study material or anything helpful before the exam. Exams aren't even related to the homework and are very hard. Nice person, but the course was very disorganized
+Tags:
+Test heavy
+Graded by few things
+Helpful
+
+Quality: 1.0
+Difficulty: 5.0
+Course: CS2337
+Date: Apr 12th, 2026
+For Credit: Yes
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: Yes
+Review:
+Do NOT take this professor. If you have not coded MANY TIMES before, his projects are EXTREMELY complicated applications of very simple things he lectures about. He is NOT specific on how his exams are (they are VERY COMPLICATED) and his quizzes are DIFFICULT. The workload in this class is OVERWHELMING. His standard is extremely high.
+Tags:
+Tough grader
+Lots of homework
+Test heavy
+Helpful
+
+Quality: 5.0
+Difficulty: 1.0
+Course: CS2336
+Date: Apr 11th, 2026
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Review:
+Professor Smith is the GOAT. I took both CS 1337 and CS 2336 with him and thoroughly enjoyed both classes, receiving A+'s. There are many projects, but if you know what you are doing then they are not difficult. I completed one in an hour, but I have coded many times before. Exams are easy, one was my only 100. Wrote me a rec letter for CS PhD.
+Tags:
+Participation matters
+Amazing lectures
+Lots of homework
+Helpful
