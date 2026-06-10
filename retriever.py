@@ -67,8 +67,9 @@ if __name__ == "__main__":
         chunks = chunk_document(cleaned_text, doc["source"])
         all_chunks.extend(chunks)
 
+    print(len(all_chunks))
     embed_and_store(all_chunks)
 
-    print("Running retrieval test...")
+    #print("Running retrieval test...")
 
-    retrieve("Grades for 3354? median GPA mean GPA")
+    #retrieve("How is Simeon Ntafos?")

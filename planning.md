@@ -125,3 +125,5 @@ I will give ChatGPT my Retrieval Approach section and ask it to help implement C
 
 **Milestone 5 — Generation and interface:**
 I will ask ChatGPT to help connect retrieval to Groq and Gradio. I will verify that responses only use retrieved chunks and include sources.
+
+STRETCH: Comparison of chunking strategies.
