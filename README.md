@@ -105,10 +105,10 @@ URL: https://www.ratemyprofessors.com/professor/155465...
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 |Who is the best teacher for CS 2340? |Alice Wang |Alice Wang |Relevant |Accurate |
+| 1 |Who is the best teacher for CS 2340? |Alice Wang |Alice Wang |Partially Relevant |Accurate |
 | 2 |How is Gopal Gupta's teaching style? |Okay around |No information |Partially relevant |Inaccurate |
-| 3 |Who is the best CS professor? |Klyne Smith, Jason Smith |Klyne Smith, Jason Smith |Relevant |Accurate |
-| 4 |How is Simeon Ntafos |Negative views |Negative views |Relevant |Accurate |
+| 3 |Who is the best CS professor? |Klyne Smith, Jason Smith |Klyne Smith, Jason Smith |Relevant |Partially Accurate |
+| 4 |How is Simeon Ntafos? |Negative views |Negative views |Relevant |Accurate |
 | 5 |What are the grades for 3354 like? |A/A- |No information |Partially relevant |Inaccurate |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
